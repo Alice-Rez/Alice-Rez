@@ -2,6 +2,8 @@
 
 <img align="right" src="./photo.jpg" width="40%">
 
+Some text about me
+
 <!--
 **Alice-Rez/Alice-Rez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi, I'm Alice!</h1>
