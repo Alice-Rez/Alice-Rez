@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Alice Rez's github stats](https://github-readme-stats.vercel.app/api?username=Alice-Rez&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Rez&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alice-rez)](https://github.com/ryo-ma/github-profile-trophy)
