@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alice-rez&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alice-rez&rank=S,AAA,AA,A&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
