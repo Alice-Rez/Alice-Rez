@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Alice Rez's github stats](https://github-readme-stats.vercel.app/api?username=Alice-Rez&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Rez&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=Alice-Rez)
