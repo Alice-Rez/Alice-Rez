@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <a href="https://codepen.io/AliceRez">
   <img align="center" src="./codepen.svg" width="5%" />
-</a>  \s\s
+</a>  
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
