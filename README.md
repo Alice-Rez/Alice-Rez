@@ -1,6 +1,4 @@
-<img align="left" src="./greetings.png" width="50%">
-
-***
+<h1><img align="left" src="./greetings.png" width="50%"></h1>
 
 <img align="right" src="./photo.jpg" width="40%">
 
