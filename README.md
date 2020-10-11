@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img align="center" src="./twitter.svg" width="5%" />
 </a> 
 <a href="https://www.flickr.com/people/169835854@N05/">
-  <img align="center" src="./flickr.svg" width="5%" />
+  <img align="center" src="./flickr.svg" width="5%" title="flickr" />
 </a> 
 <br/>
 <br/>
