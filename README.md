@@ -10,7 +10,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
  
  I am also a big hat enthusiast - I have 13 in total and you will porbably rarely see me without one of them 👒
  
-Are you interested? Get in touch with me, I am looking for job from end of the March 2021:
+**Are you interested? Get in touch with me, I am looking for job from end of the March 2021:**
 
 <!--
 **Alice-Rez/Alice-Rez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
