@@ -27,9 +27,22 @@ Here are some ideas to get you started:
 <h2><img align="center" src="./touch.png" width="25%"> </h2> 
 
 
+ 
+<a href="https://www.linkedin.com/in/alice-reznickova-96664a17b/">
+  <img align="center" src="./linkedin.svg" width="5%" />
+</a> 
 <a href="https://codepen.io/AliceRez">
   <img align="center" src="./codepen.svg" width="5%" />
-</a>  <br/>
+</a> 
+<a href="https://twitter.com/rez_alice">
+  <img align="center" src="./twitter.svg" width="5%" />
+</a> 
+<a href="https://www.flickr.com/people/169835854@N05/">
+  <img align="center" src="./flickr.svg" width="5%" />
+</a> 
+<br/>
+
+<br/>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
