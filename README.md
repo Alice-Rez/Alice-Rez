@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="./touch.png" width="25%">  
+<h2><img align="center" src="./touch.png" width="25%"> </h2> 
 
 
 <a href="https://codepen.io/AliceRez">
