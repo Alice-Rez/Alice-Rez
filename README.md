@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="./touch.png" width="25%">
+<img align="center" src="./touch.png" width="25%">  
 
 
 <a href="https://codepen.io/AliceRez">
   <img align="center" src="./codepen.svg" width="5%" />
-</a>
+</a>  
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
