@@ -35,16 +35,16 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://www.linkedin.com/in/alice-reznickova-96664a17b/">
-  <img align="center" src="./linkedin.svg" width="5%" />
+  <img align="center" src="./linkedin.svg" width="5%" title="Linked-in" />
 </a> 
 <a href="https://codepen.io/AliceRez">
-  <img align="center" src="./codepen.svg" width="5%" />
+  <img align="center" src="./codepen.svg" width="5%" title="Codepen" />
 </a> 
 <a href="https://twitter.com/rez_alice">
-  <img align="center" src="./twitter.svg" width="5%" />
+  <img align="center" src="./twitter.svg" width="5%" title="Twitter" />
 </a> 
 <a href="https://www.flickr.com/people/169835854@N05/">
-  <img align="center" src="./flickr.svg" width="5%" title="flickr" />
+  <img align="center" src="./flickr.svg" width="5%" title="Flickr" />
 </a> 
 <br/>
 <br/>
