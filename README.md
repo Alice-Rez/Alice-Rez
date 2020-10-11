@@ -54,9 +54,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alice-Rez&show_icons=true&count_private=true&bg_color=010459&title_color=f1c88b&text_color=dbdcfd&icon_color=cf8617" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alice-rez&rank=S,AAA,AA,A&theme=nord)" />
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=alice-rez&rank=S,AAA,AA,A&theme=nord" />
 </a>
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alice-rez&rank=S,AAA,AA,A&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
