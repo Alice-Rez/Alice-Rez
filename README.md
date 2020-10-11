@@ -1,4 +1,4 @@
-# Hi, I am Alice!
+<img align="left" src="./greetings.png" width="100%">
 
 <img align="right" src="./photo.jpg" width="40%">
 
