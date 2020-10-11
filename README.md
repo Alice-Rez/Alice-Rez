@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="center" src="./touch.png" width="20%">
 
 <a href="https://codepen.io/AliceRez">
-  <img align="center" src="./codepen.png" width="10%" />
+  <img align="center" src="./codepen.svg" width="20%" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
