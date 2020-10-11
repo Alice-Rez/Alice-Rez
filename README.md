@@ -6,7 +6,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
 
  What I love at Web Development is the opportunity to combine logic and skills gained during my science carrier path with a creativity channeled till now just through my hobbies - photography (check my flickr account below) and calligraphy.
 
- As a former scientist, I like to understand things in details, therefore I regularly deepen and expand my knowledge by consuming Frontend Masters courses and skills by practicing the coding and creating new things. To feed also my need for creativity, I dived deep inside of the SVG and its animation. I like to make animations subtle, but realistic.
+ As a former scientist, I like to understand things in details, therefore I regularly deepen and expand my knowledge by following Frontend Masters courses and skills by practicing the coding and creating new things. To feed also my need for creativity, I dived deep inside of the SVG and its animation. I like to make animations subtle, but realistic.
  
  I am also a big hat enthusiast - I have 13 in total and you will probably rarely see me without one of them 👒
  
