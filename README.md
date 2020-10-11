@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
 <a href="https://www.linkedin.com/in/alice-reznickova-96664a17b/">
   <img align="center" src="./linkedin.svg" width="5%" />
 </a> 
