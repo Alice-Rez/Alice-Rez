@@ -8,7 +8,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
 
  As a former scientist, I like to understand things in details, therefore I regularly deepen and expand my knowledge by following [Frontend Masters](https://frontendmasters.com/dashboard/) courses and skills by practicing the coding and creating new things. To feed also my need for creativity, I dived deep inside of the SVG and its animation. I like to make animations subtle, but realistic (see my [icon easter eggs project](https://codepen.io/AliceRez/pen/abNpMoP)).
  
- I am also a big hat enthusiast - I have 13 in total and you will probably rarely see me without one of them 👒
+ What makes me easily distinguishable? I am a big hat enthusiast - I have 13 in total and you will probably rarely see me without one of them 👒
  
 **Are you interested? Get in touch with me, I am looking for job from end of the March 2021:**
 
