@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 <img align="center" src="./touch.png" width="20%">
 
+<a href="https://codepen.io/AliceRez">
+  <img align="center" src="./codepen.png" width="10%" />
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Rez&layout=compact&count_private=true&bg_color=010459&title_color=f1c88b&text_color=dbdcfd&icon_color=cf8617" />
 </a>
