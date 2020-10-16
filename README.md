@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alice-rez&rank=S,AAA,AA,A&theme=nord" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alice-rez&theme=nord" />
 </a>
 
 
