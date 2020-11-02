@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Not-to-forget)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Not-to-forget)](https://github.com/Alice-Rez/Not-to-forget)
 
 
 
