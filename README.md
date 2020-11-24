@@ -16,9 +16,6 @@ I am former physicist that changed her carrier to become a Javascript developer.
 **Alice-Rez/Alice-Rez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi, I'm Alice!</h1>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alice-rez&rank=S,AAA,AA,A&theme=nord" />
-</a>
 
 Here are some ideas to get you started:
 
