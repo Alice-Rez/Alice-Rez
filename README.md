@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align="center" src="./html.svg" width="5%" title="HTML" style="float: left; />
+<img align="center" src="./html.svg" width="5%" title="HTML" style="float: left;" />
 <img align="center" src="./css.svg" width="5%" title="CSS" />
 <img align="center" src="./sass.svg" width="5%" title="SASS" />
 <img align="center" src="./js.svg" width="5%" title="JavaScript" />
