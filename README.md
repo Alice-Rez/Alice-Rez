@@ -50,7 +50,16 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-**Tools and technologies I am familiar with (darker color = more experience with):**
+**Tools and technologies I am familiar with (darker color = more experience with):** 
+
+<br/>
+
+<img align="center" src="./html.svg" width="5%" title="HTML" />
+<img align="center" src="./css.svg" width="5%" title="CSS" />
+<img align="center" src="./sass.svg" width="5%" title="SASS" />
+<img align="center" src="./js.svg" width="5%" title="JavaScript" />
+<img align="center" src="./react.svg" width="5%" title="React" />
+
 
 
 
