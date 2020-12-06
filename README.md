@@ -59,9 +59,21 @@ Here are some ideas to get you started:
 <img align="center" src="./sass.svg" width="4.5%" title="SASS" />
 <img align="center" src="./js.svg" width="4.5%" title="JavaScript" />
 <img align="center" src="./react.svg" width="4.5%" title="React" />
+ <img align="center" src="./redux.svg" width="4.5%" title="Redux" />
+  <img align="center" src="./angular.svg" width="4.5%" title="Angular" />
+  <img align="center" src="./ts.svg" width="4.5%" title="Typescript" />
+  <img align="center" src="./node.svg" width="4.5%" title="Node.js" />
+  <img align="center" src="./express.svg" width="4.5%" title="Express" />
+  <img align="center" src="./mySQL.svg" width="4.5%" title="MySQL" />
+</p>
+<p>
+ <img align="center" src="./svg.svg" width="4.5%" title="SVG"/>
+<img align="center" src="./inkscape.svg" width="4.5%" title="Inkscape"/>
+<img align="center" src="./gimp.svg" width="4.5%" title="GIMP" />
+<img align="center" src="./canva.svg" width="4.5%" title="Canva" />
+<img align="center" src="./figma.svg" width="4.5%" title="Figma" />
 </p>
 
-<br/>
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
