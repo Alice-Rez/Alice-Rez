@@ -10,7 +10,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
  
  Above that all, I am a big hat enthusiast - I have 13 in total and you will probably rarely see me without one of them 👒
  
-**Are you interested? Get in touch with me, I am looking for job from th end of March 2021:**
+**Are you interested? Get in touch with me, I am looking for job from the end of March 2021:**
 
 <!--
 **Alice-Rez/Alice-Rez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 
 **Tools and technologies I am familiar with (darker color = more experience with):** 
 <p>
- <img align="center" src="./git.svg" width="4%" title="GIT"/>
-<img align="center" src="./html.svg" width="4%" title="HTML"/>
-<img align="center" src="./css.svg" width="4%" title="CSS" />
-<img align="center" src="./sass.svg" width="4%" title="SASS" />
-<img align="center" src="./js.svg" width="4%" title="JavaScript" />
-<img align="center" src="./react.svg" width="4%" title="React" />
+ <img align="center" src="./git.svg" width="4.5%" title="GIT"/>
+<img align="center" src="./html.svg" width="4.5%" title="HTML"/>
+<img align="center" src="./css.svg" width="4.5%" title="CSS" />
+<img align="center" src="./sass.svg" width="4.5%" title="SASS" />
+<img align="center" src="./js.svg" width="4.5%" title="JavaScript" />
+<img align="center" src="./react.svg" width="4.5%" title="React" />
 </p>
 
-
-
+<br/>
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Rez&layout=compact&count_private=true&bg_color=010459&title_color=f1c88b&text_color=dbdcfd&icon_color=cf8617" />
