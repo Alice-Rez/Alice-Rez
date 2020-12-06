@@ -64,6 +64,7 @@ Here are some ideas to get you started:
   <img align="center" src="./node.svg" width="4.5%" title="Node.js" />
   <img align="center" src="./express.svg" width="6.5%" title="Express" />
   <img align="center" src="./mySQL.svg" width="6.5%" title="MySQL" />
+  <img align="center" src="./git.svg" width="4.5%" title="GIT"/>
 </p>
 <p>
  <img align="center" src="./svg.svg" width="4.5%" title="SVG"/>
@@ -71,10 +72,6 @@ Here are some ideas to get you started:
 <img align="center" src="./gimp.svg" width="4.5%" title="GIMP" />
 <img align="center" src="./canva.svg" width="4.5%" title="Canva" />
 <img align="center" src="./figma.svg" width="4.5%" title="Figma" />
-</p>
-<p>
- <img align="center" src="./git.svg" width="4.5%" title="GIT"/>
-
 </p>
 
 <br/>
