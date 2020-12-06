@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-**My toolkit:**
+**Tools and technologies I am familiar with (darker color = more experience with):**
 
 
 
