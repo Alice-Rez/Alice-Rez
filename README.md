@@ -36,31 +36,29 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://www.linkedin.com/in/alice-reznickova-96664a17b/">
-  <img align="center" src="./linkedin.svg" width="5%" title="Linked-in" />
+  <img align="center" src="./linkedin.svg" width="5.5%" title="Linked-in" />
 </a> 
 <a href="https://codepen.io/AliceRez">
-  <img align="center" src="./codepen.svg" width="5%" title="Codepen" />
+  <img align="center" src="./codepen.svg" width="5.5%" title="Codepen" />
 </a> 
 <a href="https://twitter.com/rez_alice">
-  <img align="center" src="./twitter.svg" width="5%" title="Twitter" />
+  <img align="center" src="./twitter.svg" width="5.5%" title="Twitter" />
 </a> 
 <a href="https://www.flickr.com/people/169835854@N05/">
-  <img align="center" src="./flickr.svg" width="5%" title="Flickr" />
+  <img align="center" src="./flickr.svg" width="5.5%" title="Flickr" />
 </a> 
 <br/>
 <br/>
 <br/>
 
 **Tools and technologies I am familiar with (darker color = more experience with):** 
-
-<br/>
 <p>
- <img align="center" src="./git.svg" width="3%" title="GIT"/>
-<img align="center" src="./html.svg" width="3%" title="HTML"/>
-<img align="center" src="./css.svg" width="3%" title="CSS" />
-<img align="center" src="./sass.svg" width="3%" title="SASS" />
-<img align="center" src="./js.svg" width="3%" title="JavaScript" />
-<img align="center" src="./react.svg" width="3%" title="React" />
+ <img align="center" src="./git.svg" width="4%" title="GIT"/>
+<img align="center" src="./html.svg" width="4%" title="HTML"/>
+<img align="center" src="./css.svg" width="4%" title="CSS" />
+<img align="center" src="./sass.svg" width="4%" title="SASS" />
+<img align="center" src="./js.svg" width="4%" title="JavaScript" />
+<img align="center" src="./react.svg" width="4%" title="React" />
 </p>
 
 
