@@ -85,10 +85,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alice-rez" />
-</a>
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Not-to-forget)](https://github.com/Alice-Rez/Not-to-forget)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Calli-shop)](https://github.com/Alice-Rez/Calli-Shop)
 
