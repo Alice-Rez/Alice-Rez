@@ -86,6 +86,6 @@ Here are some ideas to get you started:
 <br/>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Not-to-forget)](https://github.com/Alice-Rez/Not-to-forget)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Not-to-forget&bg_color=010459&title_color=f1c88b&text_color=dbdcfd&icon_color=cf8617)](https://github.com/Alice-Rez/Not-to-forget)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Calli-shop)](https://github.com/Alice-Rez/Calli-Shop)
 
