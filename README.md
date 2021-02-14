@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <img align="center" src="./node.svg" width="4.5%" title="Node.js" />
   <img align="center" src="./express-new.svg" width="4.5%" title="Express" />
  <img align="center" src="./mongo-new.svg" width="4.5%" title="MongoDB" />
- <img align="center" src="./Mongoose.svg" width="4.5%" title="Mongoose" />
+ <img align="center" src="./Mongoose.svg" width="6.5%" title="Mongoose" />
   <img align="center" src="./mySQL.svg" width="6.5%" title="MySQL" />
   <img align="center" src="./git.svg" width="4.5%" title="GIT"/>
  <img align="center" src="./npm.svg" width="4.5%" title="npm"/>
