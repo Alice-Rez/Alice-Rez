@@ -2,7 +2,7 @@
 
 <img align="right" src="./photo.jpg" width="40%">
 
-I am former physicist that changed her carrier to become a Javascript developer. Currently I am at the end of full-stack web development course from [Digital Carrier Institute](https://digitalcareerinstitute.org/). This course is one year long, fully certified and focuses on MERN (MongoDB, ExpressJS, ReactJS and NodeJS) technology stack. During the course, I also worked as a tutor for my fellow students - I helped them to better understand the topic, with their problems and debugging.
+I am former physicist that changed her carrier to become a Javascript developer. I recently graduated from full-stack web development course from [Digital Carrier Institute](https://digitalcareerinstitute.org/). This course was one year long, fully certified and focuses on MERN (MongoDB, ExpressJS, ReactJS and NodeJS) technology stack. During the course, I also worked as a tutor for my fellow students - I helped them to better understand the topic, with their problems and debugging.
 
  What I love at Web Development is the opportunity to combine logic and skills gained during my science carrier path with a creativity channeled till now just through my hobbies - photography (check my flickr account below) and calligraphy.
 
@@ -10,7 +10,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
  
  Above that all, I am a big hat enthusiast - I have 13 in total and you will probably rarely see me without one of them 👒
  
-**Are you interested? Get in touch with me, I am looking for job from the end of March 2021:**
+**Are you interested? Get in touch with me, I am looking for job:**
 
 <!--
 **Alice-Rez/Alice-Rez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
