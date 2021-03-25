@@ -76,6 +76,6 @@ I am former physicist that changed her carrier to become a Javascript developer.
 <br/>
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Not-to-forget)](https://github.com/Alice-Rez/Not-to-forget)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Bakey)](https://github.com/Alice-Rez/Bakey)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Calli-shop)](https://github.com/Alice-Rez/Calli-Shop)
 
