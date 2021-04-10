@@ -10,7 +10,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
  
  Above that all, I am a big hat enthusiast - I have 13 in total and you will probably rarely see me without one of them 👒
  
-**Are you interested? Get in touch with me, I am looking for job:**
+**Get in touch with me:**
 
 <!--
 **Alice-Rez/Alice-Rez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,4 +78,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Bakey)](https://github.com/Alice-Rez/Bakey)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Calli-shop)](https://github.com/Alice-Rez/Calli-Shop)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alice-rez" />
+</a>
 
