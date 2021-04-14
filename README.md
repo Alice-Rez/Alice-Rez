@@ -10,6 +10,8 @@ I am former physicist that changed her carrier to become a Javascript developer.
  
  Above that all, I am a big hat enthusiast - I have 13 in total and you will probably rarely see me without one of them 👒
  
+ Currently getting to know Python and diving into Cloud (AWS) at [Thinkport](https://thinkport.digital/)
+ 
 **Get in touch with me:**
 
 <!--
