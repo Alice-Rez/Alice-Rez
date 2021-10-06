@@ -78,10 +78,6 @@ I am former physicist that changed her carrier to become a Javascript developer.
 <br/>
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alice-rez" />
-</a>
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Bakey)](https://github.com/Alice-Rez/Bakey)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alice-Rez&repo=Calli-shop)](https://github.com/Alice-Rez/Calli-Shop)
 
