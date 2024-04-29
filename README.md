@@ -41,6 +41,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
 <br/>
 <br/>
 
+<!--
 **Tools and technologies I am familiar with (darker color = more experience with):** 
 <p>
 <img align="center" src="./html.svg" width="4.5%" title="HTML"/>
@@ -66,6 +67,7 @@ I am former physicist that changed her carrier to become a Javascript developer.
 <img align="center" src="./canva.svg" width="4.5%" title="Canva" />
 <img align="center" src="./figma.svg" width="4.5%" title="Figma" />
 </p>
+-->
 
 <br/>
 
