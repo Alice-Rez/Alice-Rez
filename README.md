@@ -2,7 +2,7 @@
 
 <img align="right" src="./photo.jpg" width="40%">
 
-I am former physicist that changed her carrier to become a Javascript developer. I recently graduated from full-stack web development course from [Digital Carrier Institute](https://digitalcareerinstitute.org/). This course was one year long, fully certified and focuses on MERN (MongoDB, ExpressJS, ReactJS and NodeJS) technology stack. During the course, I also worked as a tutor for my fellow students - I helped them to better understand the topic, with their problems and debugging.
+I am former physicist that changed her carrier to become a Software Engineer. In 2021 I successfully finished requalification to web development by finishing full-stack web development course from [Digital Carrier Institute](https://digitalcareerinstitute.org/). This course was one year long, fully certified and focused on MERN (MongoDB, ExpressJS, ReactJS and NodeJS) technology stack. During the course, I also worked as a tutor for my fellow students - I helped them to better understand the topic, with their problems and debugging.
 
  What I love at Web Development is the opportunity to combine logic and skills gained during my science carrier path with a creativity channeled till now just through my hobbies - photography (check my flickr account below) and calligraphy.
 
@@ -10,7 +10,9 @@ I am former physicist that changed her carrier to become a Javascript developer.
  
  Above that all, I am a big hat enthusiast - I have 13 in total and you will probably rarely see me without one of them 👒
  
- Currently getting to know Python and diving into Cloud (AWS) at [Thinkport](https://thinkport.digital/)
+ After the web development course, i started to work at [Thinkport](https://thinkport.digital/) as Cloud Engineer and dived to the Cloud (namely AWS) and Python. Appart of that, I also started to gather experiences with the Devops practices.
+
+ Currently I am continuing as Software Engineer focused on Cloud Platform & Infrastructure Automation at [Novatec](https://novatec-gmbh.de/)
  
 **Get in touch with me:**
 
