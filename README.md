@@ -72,13 +72,14 @@ I am former physicist that changed her carrier to become a Software Engineer. In
 -->
 
 <br/>
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Rez&layout=compact&count_private=true&bg_color=010459&title_color=f1c88b&text_color=dbdcfd&icon_color=cf8617" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alice-Rez&show_icons=true&count_private=true&bg_color=010459&title_color=f1c88b&text_color=dbdcfd&icon_color=cf8617" />
 </a>
+-->
 <br/>
 <br/>
 
